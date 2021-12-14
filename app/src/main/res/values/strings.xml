@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">festejos!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Festejos For Ever!!!!</string>
+    <string name="nav_header_subtitle">festejosforever@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_add">Agregar</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <!-- Productos -->
+    <string name="nameP1">Confiteria</string>
+    <string name="descriptionP1">Todo lo de confiteria</string>
+    <string name="precioP1">$50\'000.000</string>
+
+    <string name="nameP2">Decoraciones</string>
+    <string name="descriptionP2">Todo sobre decoraciones</string>
+    <string name="precioP2">$50\'000.000</string>
+
+    <string name="nameP3">Desayuno</string>
+    <string name="descriptionP3">Desayunos para toda ocasion</string>
+    <string name="precioP3">$50\'000.000</string>
+
+    <string name="nameP4">Recordatorios</string>
+    <string name="descriptionP4">Recordatorios toda ocasion</string>
+    <string name="precioP4">$50\'000.000</string>
+
+    <string name="nameP5">Tortas</string>
+    <string name="descriptionP5">Tortas para toda ocasion</string>
+    <string name="precioP5">$50\'000.000</string>
+
+    <!-- Sucursales -->
+    <string name="nameS1">20 de Julio</string>
+    <string name="descriptionS1">Zona Sur Oriente</string>
+    <string name="direc1">Calle 27Sur # 5 - 50</string>
+
+    <string name="nameS2">Kennedy</string>
+    <string name="descriptionS2">Zona Sur Occidente</string>
+    <string name="direc2">Calle 38b Sur # 75 - 77</string>
+
+    <string name="nameS3">Engativa</string>
+    <string name="descriptionS3">Zona Occidente</string>
+    <string name="direc3">Calle 63 # 107 -88</string>
+
+    <string name="nameS4">Centro</string>
+    <string name="descriptionS4">Oriente</string>
+    <string name="direc4">Cra 7 # 11- 07</string>
+
+    <string name="nameS5">Chico</string>
+    <string name="descriptionS5">Zona Norte</string>
+    <string name="direc5">Calle 100 # 7 - 77</string>
+
+    <!-- Servicios -->
+
+    <string name="nameSer1">Animaciones</string>
+    <string name="descriptionSer1">Cualquier animacion</string>
+    <string name="direcSer1">$50\'000</string>
+
+    <string name="nameSer2">Eventos</string>
+    <string name="descriptionSer2">Cualquier evento</string>
+    <string name="direcSer2">$1\'000.000</string>
+
+    <string name="nameSer3">Hora loca</string>
+    <string name="descriptionSer3">Lo mejor para tu evento</string>
+    <string name="direcSer3">$500\'000</string>
+
+    <string name="nameSer4">Payasos</string>
+    <string name="descriptionSer4">Lo mejor para tu evento</string>
+    <string name="direcSer4">$500\'000</string>
+
+    <string name="nameSer5">Show de magia</string>
+    <string name="descriptionSer5">Lo mejor para tu evento</string>
+    <string name="direcSer5">$500\'000</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
